@@ -31,10 +31,7 @@ download FSC-147 according to [link](https://github.com/cvlab-stonybrook/Learnin
   - gt_density_map_adaptive_384_VarV2
     - 2.npy
     - ...
-- dataroot_FSC_147_edge
-  - 2.jpg
-  - ...
-``` 
+
 
 ## 4. code
 
